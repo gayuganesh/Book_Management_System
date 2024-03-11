@@ -1,0 +1,21 @@
+{
+  "book": [
+    {
+      "Title": "Julius Caesar",
+      "Author": "William Shakespeare",
+      "Publisher": "First Folio",
+      "NoOfCopies": "98",
+      "Cost": "564",
+      "id": "4a28"
+    },
+    {
+      "id": "f150",
+      "Title": "Soumik Book",
+      "Author": "Soumik the great",
+      "Publisher": "Soumik",
+      "NoOfCopies": "1 Million",
+      "Cost": "700",
+      "active": true
+    }
+  ]
+}
